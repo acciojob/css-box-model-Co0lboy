@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+#1st{
+	width:300px;
+	background-color:blue;
+	border:15px solid blue;
+	padding:50px;
+}
